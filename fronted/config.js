@@ -1,3 +1,4 @@
+// File to get the config created on next.config.js
 import getConfig from 'next/config'
 const { publicRuntimeConfig } = getConfig()
 
